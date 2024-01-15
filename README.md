@@ -1,1 +1,1 @@
-# PsyLiq-Employee-Data-Analysing-with-Excel
+# Employee-Data-Analysing-with-Excel
